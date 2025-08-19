@@ -17,7 +17,7 @@ function sprawdzDane() {
     var haslo = document.getElementById("haslo").value;
 
     var users = {
-        "Rx_2!g$Lp@w#Tm": "Hp_9@r$Xq!m#Ln",
+        "": "",
     };
 
     // Weryfikacja danych
